@@ -1,0 +1,22 @@
+node_modules
+.DS_Store
+dist
+*.local
+.env
+.env.*
+*.tsbuildinfo
+# Respaldos del proyecto
+*.backup-*
+RESPALDO_ANTES_AJUSTES*/
+*.respaldo-*
+
+# Instaladores y correctores temporales
+CORREGIR_*.cjs
+INSTALAR_*.cjs
+ACTUALIZAR_*.cjs
+ARREGLAR_*.cjs
+AGREGAR_*.cjs
+REPARAR_*.cjs
+
+# Instaladores de programas
+GitHubDesktopSetup*.exe

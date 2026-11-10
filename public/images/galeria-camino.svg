@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#4e2c30"/><stop offset=".54" stop-color="#bb734e"/><stop offset="1" stop-color="#f5c68d"/></linearGradient><linearGradient id="sand" x2="0" y2="1"><stop stop-color="#9d603f"/><stop offset="1" stop-color="#492a25"/></linearGradient></defs>
+<rect width="800" height="600" fill="url(#sky)"/><circle cx="550" cy="224" r="113" fill="#f6c38b" opacity=".8"/>
+<path d="M0 388 101 337 154 365 275 290 356 339 466 291 571 354 644 317 800 392V600H0Z" fill="#885343"/><path d="M0 436 96 397 213 429 331 361 436 411 566 374 684 420 800 393V600H0Z" fill="#704437"/>
+<path d="M0 510 136 475 286 496 389 426 472 484 609 457 800 492V600H0Z" fill="url(#sand)"/>
+<path d="M308 600C393 531 381 488 395 449s30-51 47-52c2 68 29 118 107 203Z" fill="#db9b6c" opacity=".8"/>
+<g opacity=".7" fill="none" stroke="#351c19" stroke-width="5"><path d="M55 550v-92m0 29-31-19m31 7 29-34M690 545v-125m0 45-34-28m34-19 22-20"/></g>
+<g fill="#34201e"><path d="M123 517c-15-27-7-53 5-69l14 10-1 59-18 0Zm18-48 20 10 8 28-17 6-11-44Z"/><ellipse cx="135" cy="447" rx="36" ry="8"/><path d="m113 446 8-20 26 1 9 19Z"/><path d="m557 517 11-55 21-3 11 60h-43Zm12-55-20 24 10 20 17-29"/><ellipse cx="578" cy="458" rx="37" ry="7"/><path d="m552 458 10-23 28 0 12 23Z"/></g>
+<rect x="29" y="26" width="742" height="548" fill="none" stroke="#ffdfad" stroke-opacity=".34" stroke-width="2"/><text x="43" y="63" font-family="Georgia,serif" letter-spacing="6" font-size="23" fill="#fbe3c2">EL CAMINO NOS UNE</text>
+</svg>
